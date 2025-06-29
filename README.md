@@ -20,12 +20,15 @@ requirements.txt: Currently empty — add packages if needed
 6. Check the Actions tab to see your workflow in action.
 
 🔁 Basic Git Commands you can try during this lab
-bash
-Copy
-Edit
+
 git status                   # Check current repo state
+
 git checkout -b <branch>    # Create and switch to a new branch
+
 git add .                   # Stage all changes
+
 git commit -m "message"     # Commit with a message
+
 git push origin <branch>    # Push to GitHub
+
 git pull                    # Get latest updates from origin
